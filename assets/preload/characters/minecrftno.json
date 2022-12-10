@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "missingo_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				237,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "missingo_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-39
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "missingo_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				362
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "missingo_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				60
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "missingo_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-88,
+				0
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "missingo_intro",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/minecrftno",
+	"position": [
+		-50,
+		50
+	],
+	"healthicon": "missingno",
+	"flip_x": false,
+	"healthbar_colors": [
+		40,
+		0,
+		100
+	],
+	"camera_position": [
+		-40,
+		80
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 1
+}

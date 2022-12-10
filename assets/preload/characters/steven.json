@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "St LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "St DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				4
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "St IDLE",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-57,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "St UP"
+		},
+		{
+			"offsets": [
+				-71,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "St RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dissension/StevenLookinAtYou",
+	"position": [
+		50,
+		-30
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		20,
+		22
+	],
+	"camera_position": [
+		-90,
+		60
+	],
+	"sing_duration": 5,
+	"scale": 1
+}

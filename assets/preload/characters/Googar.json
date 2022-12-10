@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "googar idle"
+		},
+		{
+			"offsets": [
+				-5,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "googar down"
+		},
+		{
+			"offsets": [
+				4,
+				92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "googar up"
+		},
+		{
+			"offsets": [
+				35,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "googar laugh"
+		},
+		{
+			"offsets": [
+				3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "googar left"
+		},
+		{
+			"offsets": [
+				16,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "googar right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/googar_assets",
+	"position": [
+		110,
+		670
+	],
+	"healthicon": "googar",
+	"flip_x": false,
+	"healthbar_colors": [
+		151,
+		131,
+		202
+	],
+	"camera_position": [
+		-280,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

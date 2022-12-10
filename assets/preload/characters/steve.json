@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-165,
+				-133
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Steven Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-171,
+				-151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Steven Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-186,
+				-139
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Steven Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-176,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Steven Idle"
+		},
+		{
+			"offsets": [
+				-182,
+				-131
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Steven Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dissension/StevenLookinAtYouPart2",
+	"position": [
+		-50,
+		410
+	],
+	"healthicon": "steven-evil",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		20,
+		22
+	],
+	"camera_position": [
+		310,
+		10
+	],
+	"sing_duration": 5,
+	"scale": 1.6
+}

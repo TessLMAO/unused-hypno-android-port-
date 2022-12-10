@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Steven Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-58,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Steven Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Steven Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-56,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Steven Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Steven Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dissension/StevenBehindTheBed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "steven",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		20,
+		22
+	],
+	"camera_position": [
+		-90,
+		-120
+	],
+	"sing_duration": 5,
+	"scale": 1.6
+}

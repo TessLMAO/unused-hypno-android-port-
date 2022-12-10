@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mike Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mike Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mike Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mike Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-130,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Mike Idle"
+		},
+		{
+			"offsets": [
+				-130,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Wak",
+			"loop": true,
+			"name": "Mike Wak"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dissension/MikeIstgGoToSleep",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "mike",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		115,
+		60
+	],
+	"camera_position": [
+		-130,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}
