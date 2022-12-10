@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BRO_DEAD.png">
+<SubTexture name="BRO DOWN0000" x="2249" y="2356" width="749" height="715" frameX="0" frameY="-22" frameWidth="763" frameHeight="765" />
+<SubTexture name="BRO DOWN0001" x="2249" y="2356" width="749" height="715" frameX="0" frameY="-22" frameWidth="763" frameHeight="765" />
+<SubTexture name="BRO DOWN0002" x="1500" y="2356" width="749" height="721" frameX="0" frameY="-22" frameWidth="763" frameHeight="765" />
+<SubTexture name="BRO DOWN0003" x="1500" y="2356" width="749" height="721" frameX="0" frameY="-22" frameWidth="763" frameHeight="765" />
+<SubTexture name="BRO DOWN0004" x="750" y="2356" width="750" height="734" frameX="0" frameY="-22" frameWidth="763" frameHeight="765" />
+<SubTexture name="BRO DOWN0005" x="750" y="2356" width="750" height="734" frameX="0" frameY="-22" frameWidth="763" frameHeight="765" />
+<SubTexture name="BRO IDLE0000" x="0" y="2356" width="750" height="755" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0001" x="0" y="2356" width="750" height="755" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0002" x="2992" y="1528" width="750" height="759" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0003" x="2992" y="1528" width="750" height="759" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0004" x="2992" y="766" width="750" height="762" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0005" x="2992" y="766" width="750" height="762" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0006" x="2992" y="0" width="751" height="766" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0007" x="2992" y="0" width="751" height="766" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0008" x="1494" y="1583" width="750" height="769" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0009" x="1494" y="1583" width="750" height="769" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0010" x="1494" y="1583" width="750" height="769" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0011" x="1494" y="1583" width="750" height="769" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0012" x="1494" y="1583" width="750" height="769" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO IDLE0013" x="1494" y="1583" width="750" height="769" frameX="-13" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO LEFT0000" x="2250" y="0" width="742" height="773" frameX="-40" frameY="-22" frameWidth="874" frameHeight="855" />
+<SubTexture name="BRO LEFT0001" x="2250" y="0" width="742" height="773" frameX="-40" frameY="-22" frameWidth="874" frameHeight="855" />
+<SubTexture name="BRO LEFT0002" x="0" y="1583" width="745" height="773" frameX="-54" frameY="-22" frameWidth="874" frameHeight="855" />
+<SubTexture name="BRO LEFT0003" x="0" y="1583" width="745" height="773" frameX="-54" frameY="-22" frameWidth="874" frameHeight="855" />
+<SubTexture name="BRO LEFT0004" x="745" y="1583" width="749" height="772" frameX="-75" frameY="-22" frameWidth="874" frameHeight="855" />
+<SubTexture name="BRO LEFT0005" x="745" y="1583" width="749" height="772" frameX="-75" frameY="-22" frameWidth="874" frameHeight="855" />
+<SubTexture name="BRO RIGHT0000" x="0" y="807" width="742" height="776" frameX="-74" frameY="-28" frameWidth="852" frameHeight="855" />
+<SubTexture name="BRO RIGHT0001" x="0" y="807" width="742" height="776" frameX="-74" frameY="-28" frameWidth="852" frameHeight="855" />
+<SubTexture name="BRO RIGHT0002" x="742" y="807" width="744" height="776" frameX="-60" frameY="-28" frameWidth="852" frameHeight="855" />
+<SubTexture name="BRO RIGHT0003" x="742" y="807" width="744" height="776" frameX="-60" frameY="-28" frameWidth="852" frameHeight="855" />
+<SubTexture name="BRO RIGHT0004" x="1486" y="807" width="748" height="775" frameX="-42" frameY="-28" frameWidth="852" frameHeight="855" />
+<SubTexture name="BRO RIGHT0005" x="1486" y="807" width="748" height="775" frameX="-42" frameY="-28" frameWidth="852" frameHeight="855" />
+<SubTexture name="BRO UP0000" x="0" y="0" width="750" height="807" frameX="-10" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO UP0001" x="0" y="0" width="750" height="807" frameX="-10" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO UP0002" x="750" y="0" width="750" height="798" frameX="-10" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO UP0003" x="750" y="0" width="750" height="798" frameX="-10" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO UP0004" x="1500" y="0" width="750" height="790" frameX="-10" frameY="-22" frameWidth="774" frameHeight="855" />
+<SubTexture name="BRO UP0005" x="1500" y="0" width="750" height="790" frameX="-10" frameY="-22" frameWidth="774" frameHeight="855" />
+</TextureAtlas>
