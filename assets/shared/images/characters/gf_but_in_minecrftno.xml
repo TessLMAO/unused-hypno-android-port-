@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_but_in_minecrftno.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lolgf_left0000" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_left0001" x="352" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_left0002" x="3" y="238" width="346" height="232"/>
+	<SubTexture name="lolgf_left0003" x="352" y="238" width="346" height="232"/>
+	<SubTexture name="lolgf_left0004" x="3" y="473" width="346" height="232"/>
+	<SubTexture name="lolgf_left0005" x="3" y="473" width="346" height="232"/>
+	<SubTexture name="lolgf_left0006" x="352" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_left0007" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_left0008" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_left0009" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_left0010" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_right0000" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_right0001" x="352" y="473" width="346" height="232"/>
+	<SubTexture name="lolgf_right0002" x="3" y="708" width="346" height="232"/>
+	<SubTexture name="lolgf_right0003" x="352" y="708" width="346" height="232"/>
+	<SubTexture name="lolgf_right0004" x="352" y="708" width="346" height="232"/>
+	<SubTexture name="lolgf_right0005" x="352" y="473" width="346" height="232"/>
+	<SubTexture name="lolgf_right0006" x="352" y="473" width="346" height="232"/>
+	<SubTexture name="lolgf_right0007" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_right0008" x="3" y="3" width="346" height="232"/>
+	<SubTexture name="lolgf_right0009" x="3" y="3" width="346" height="232"/>
+</TextureAtlas>
